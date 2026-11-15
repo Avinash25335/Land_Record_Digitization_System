@@ -1,4 +1,4 @@
-# Intelligent Land Record Digitization and Validation System
+﻿# Intelligent Land Record Digitization and Validation System
 **Course:** INT253 - Web Development in Python Using Django  
 **Academic Task:** Project (Web Application) — 30 Marks  
 **Framework:** Django 6.0.7 / Python 3.13.1  
@@ -73,4 +73,4 @@ python manage.py test
 ---
 
 ## 📚 Documentation
-For complete technical specifications, ER diagrams, URL to view mapping table, and viva explanations, see [PROJECT_REPORT.md](file:///d:/projects/Django/PROJECT_REPORT.md).
+For complete technical specifications, ER diagrams, URL to view mapping table, and viva explanations, see [PROJECT_REPORT.md](PROJECT_REPORT.md).
